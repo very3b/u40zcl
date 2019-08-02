@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      jflin
+HostName                       cmosiki
+ProcessIdentifier              4428
+ProcessCreationTime_UTC        1564709534
+ProcessCreationTime_Readable   Thu Aug  1 21:32:14 2019 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /app/proj/sustech/bag/2019/BAG2_umc40/gen_libs/UCM40LP_XTF3/XTF5PLC2T1_W5_R42/layout_em/layout.oa.cdslck
+TimeEditLocked                 Thu Aug  1 23:22:37 2019 EDT
